@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Documents/If-Else-Yap-s-ve-Ternary-If/bin/Debug/net6.0/If-Else-Yap-s-ve-Ternary-If
+/Users/osmanbatuhankalkan/Documents/If-Else-Yap-s-ve-Ternary-If/bin/Debug/net6.0/If-Else-Yap-s-ve-Ternary-If.deps.json
+/Users/osmanbatuhankalkan/Documents/If-Else-Yap-s-ve-Ternary-If/bin/Debug/net6.0/If-Else-Yap-s-ve-Ternary-If.runtimeconfig.json
+/Users/osmanbatuhankalkan/Documents/If-Else-Yap-s-ve-Ternary-If/bin/Debug/net6.0/If-Else-Yap-s-ve-Ternary-If.dll
+/Users/osmanbatuhankalkan/Documents/If-Else-Yap-s-ve-Ternary-If/bin/Debug/net6.0/If-Else-Yap-s-ve-Ternary-If.pdb
+/Users/osmanbatuhankalkan/Documents/If-Else-Yap-s-ve-Ternary-If/obj/Debug/net6.0/If-Else-Yap-s-ve-Ternary-If.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Documents/If-Else-Yap-s-ve-Ternary-If/obj/Debug/net6.0/If-Else-Yap-s-ve-Ternary-If.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Documents/If-Else-Yap-s-ve-Ternary-If/obj/Debug/net6.0/If-Else-Yap-s-ve-Ternary-If.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Documents/If-Else-Yap-s-ve-Ternary-If/obj/Debug/net6.0/If-Else-Yap-s-ve-Ternary-If.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Documents/If-Else-Yap-s-ve-Ternary-If/obj/Debug/net6.0/If-Else-Yap-s-ve-Ternary-If.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Documents/If-Else-Yap-s-ve-Ternary-If/obj/Debug/net6.0/If-Else-Yap-s-ve-Ternary-If.dll
+/Users/osmanbatuhankalkan/Documents/If-Else-Yap-s-ve-Ternary-If/obj/Debug/net6.0/refint/If-Else-Yap-s-ve-Ternary-If.dll
+/Users/osmanbatuhankalkan/Documents/If-Else-Yap-s-ve-Ternary-If/obj/Debug/net6.0/If-Else-Yap-s-ve-Ternary-If.pdb
+/Users/osmanbatuhankalkan/Documents/If-Else-Yap-s-ve-Ternary-If/obj/Debug/net6.0/If-Else-Yap-s-ve-Ternary-If.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Documents/If-Else-Yap-s-ve-Ternary-If/obj/Debug/net6.0/ref/If-Else-Yap-s-ve-Ternary-If.dll
